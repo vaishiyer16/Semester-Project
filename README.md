@@ -1,6 +1,6 @@
-# 📊 Semester Project: Semester Project
+#Semester Project
 
-## 📌 Description
+Description
 
 This project is part of a semester-long data science course.
 
@@ -14,7 +14,7 @@ The project follows the [Cookiecutter Data Science](https://drivendata.github.io
 
 ---
 
-## 🧰 Dependencies
+##  Dependencies
 
 This project requires Python 3.9+ and the following packages:
 
