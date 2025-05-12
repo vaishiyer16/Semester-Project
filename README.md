@@ -1,11 +1,17 @@
 <<<<<<< HEAD
 # Semester Project — Predicting Customer Churn Using Machine Learning
 
-## Project Overview
+# 📉 Predicting Customer Churn Using Machine Learning
 
-This project uses machine learning to identify and understand customer churn behavior in a telecommunications dataset. The goal is to model customer attrition based on contract type, billing, and service usage — and interpret results through a social science lens.
+This project predicts customer churn in the telecom industry using supervised machine learning models. By identifying which customers are likely to leave, companies can proactively reduce churn and improve customer retention strategies. The project was built as part of the INST414 semester project at the University of Maryland.
 
-## Folder Structure (Cookiecutter Data Science)
+---
+
+## 📁 Project Structure
+
+This repository follows the [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) template:
+
+
 
 ├── data/
 │ ├── raw/ # original dataset
